@@ -1,0 +1,6 @@
+{
+  "name": "NeuroSkeleton",
+  "description": "Futuristic real-time body tracking overlay with sci-fi HUD metrics and digital scan modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
